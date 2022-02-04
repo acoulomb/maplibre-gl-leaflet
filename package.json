@@ -31,7 +31,7 @@
   },
   "peerDependencies": {
     "leaflet": "^1.0.0",
-    "maplibre-gl": "^1.14.0"
+    "maplibre-gl": "^2.1.1"
   },
   "types": "leaflet-maplibre-gl.d.ts"
 }
